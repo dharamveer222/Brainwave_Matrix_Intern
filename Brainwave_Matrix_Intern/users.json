@@ -1,0 +1,34 @@
+{
+    "John": {
+        "pin": "9386",
+        "balance": 5390.0,
+        "history": [
+            "Transferred \u20b9100.0 to john",
+            "Received \u20b9100.0 from john",
+            "Deposited \u20b9100.0",
+            "Deposited \u20b9100.0",
+            "Deposited \u20b9500.0",
+            "Withdrew \u20b910.0",
+            "Transferred \u20b9100.0 to John",
+            "Received \u20b9100.0 from John",
+            "Deposited \u20b9100.0",
+            "Withdrew \u20b9200.0",
+            "Transferred \u20b9100.0 to John",
+            "Received \u20b9100.0 from John",
+            "Deposited \u20b9100.0",
+            "Withdrew \u20b9200.0",
+            "Transferred \u20b9100.0 to Alice"
+        ],
+        "account": "ACC0001001",
+        "ifsc": "IFSC0001234"
+    },
+    "Alice": {
+        "pin": "4321",
+        "balance": 3100.0,
+        "history": [
+            "Received \u20b9100.0 from John"
+        ],
+        "account": "ACC0001002",
+        "ifsc": "IFSC0001234"
+    }
+}

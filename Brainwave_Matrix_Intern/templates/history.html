@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>History</title><link rel="stylesheet" href="/static/styles.css"></head>
+<body>
+<h2>Transaction History</h2>
+<ul>
+    {% for item in history %}
+        <li>{{ item }}</li>
+    {% endfor %}
+</ul>
+<a href="/dashboard">Back</a>
+</body>
+</html>
